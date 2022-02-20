@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#showcase{
+    background-image: url(img/pexels-photo-248515.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 500px;
+    color: white;
+    text-align: center;
+    background-attachment: fixed;
+}
+.h1s{
+    padding-top: 50px;
+    margin-bottom: 25px;
+}
+.h4s{
+    font-size: 22px;
+}
+.as{
+    text-decoration: none;
+    color: white;
+    background-color: #302e2e;
+    padding: 20px;
+    border: solid 1px;
+}
+.as:hover{
+    color: coral;
+    text-decoration: none;
+}
+#conab{
+    width: 100%;
+}
+.contact{
+    width: 50%;
+}
+.about{
+    width: 50%;
+    height: 246px;
+    padding-top: 24px;
+}
+
+
+#main-footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+.leftt{
+    float: left;
+    padding-top: 15px;
+    margin-left: 160px;
+}
+.rightt{
+    float: right;
+    padding-top: 15px;
+    margin-right: 160px;
+}
